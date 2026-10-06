@@ -23,7 +23,7 @@ family,discipline,title,manuscripts,lean,reasoning_trace,first_paper
 022,Number theory,The weak inhomogeneous Duffin–Schaeffer conjecture,1,,,preprints/The-weak-inhomogeneous-Duffin-Schaeffer-conjecture-September-25-2026/paper.pdf
 023,Number theory,Patterson’s first moment for cubic Gauss sums,1,yes,,preprints/An-unconditional-first-moment-for-cubic-Gauss-sums-September-25-2026/paper.pdf
 024,Number theory,An asymptotic formula for the number of totients,1,yes,,preprints/An-asymptotic-formula-for-the-number-of-totients-September-25-2026/An-asymptotic-formula-for-the-number-of-totients-September-25-2026.pdf
-025,Number theory,Erd\H{o}s’s short Egyptian-fraction conjecture,1,yes,,preprints/Short-Egyptian-fractions-September-25-2026/Short-Egyptian-fractions-September-25-2026.pdf
+025,Number theory,Erdős’s short Egyptian-fraction conjecture,1,yes,,preprints/Short-Egyptian-fractions-September-25-2026/Short-Egyptian-fractions-September-25-2026.pdf
 026,Number theory,Positive lower density of large prime gaps,1,yes,,preprints/Positive-lower-density-of-large-prime-gaps-September-25-2026/main.pdf
 027,Number theory,Integral density on curve character varieties,1,,,preprints/Integral-points-on-character-varieties-of-curves-September-25-2026/paper.pdf
 028,Number theory,The Gaussian moat conjecture,1,yes,,preprints/Bounded-Step-Walks-on-Gaussian-Primes-September-26-2026/paper.pdf
@@ -79,7 +79,7 @@ family,discipline,title,manuscripts,lean,reasoning_trace,first_paper
 081,Real and complex analysis,The David–Semmes Riesz-transform problem in higher codimension,1,yes,,preprints/Riesz-transforms-and-uniform-rectifiability-in-higher-codimension-September-24-2026/paper.pdf
 082,Real and complex analysis,Maximal and variational bounds for the triangular Hilbert transform,3,yes,,preprints/Annular-variation-of-the-triangular-Hilbert-transform-at-the-symmetric-point-October-5-2026/annular-variation.pdf
 083,Real and complex analysis,Stein's conjecture for Hilbert transforms along Lipschitz directions,1,yes,,preprints/A-uniform-Hilbert-transform-estimate-for-Lipschitz-directions-September-25-2026/main.pdf
-084,Real and complex analysis,The geometric case of the Erd\H{o}s similarity conjecture,2,yes,,preprints/The-geometric-case-of-the-Erdos-similarity-conjecture-October-5-2026/geometric-erdos-similarity.pdf
+084,Real and complex analysis,The geometric case of the Erdős similarity conjecture,2,yes,,preprints/The-geometric-case-of-the-Erdos-similarity-conjecture-October-5-2026/geometric-erdos-similarity.pdf
 085,Real and complex analysis,Endpoint regularity of the planar centered maximal function,1,yes,,preprints/An-Endpoint-Gradient-Bound-for-the-Centered-Disk-Maximal-Operator-September-26-2026/article.pdf
 086,Real and complex analysis,An $L^3$ bound for the trilinear Hilbert transform,1,,,preprints/An-L3-bound-for-the-trilinear-Hilbert-transform-October-5-2026/paper.pdf
 087,Convex and metric geometry,The Mahler conjectures and symplectic width,3,yes,symmetric-and-general-mahler-conjectures.pdf,preprints/The-symmetric-Mahler-conjecture-and-its-equality-cases-September-22-2026/paper.pdf
@@ -153,13 +153,13 @@ family,discipline,title,manuscripts,lean,reasoning_trace,first_paper
 156,Combinatorics,Borsuk's conjecture fails in dimension nine,1,yes,,preprints/A-nine-dimensional-counterexample-to-Borsuks-covering-assertion-September-23-2026/paper.pdf
 157,Combinatorics,Counterexamples to the Hadwiger and Colin de Verdiere conjectures,3,yes,,preprints/A-counterexample-to-Hadwigers-conjecture-September-23-2026/paper.pdf
 158,Combinatorics,The Euclidean plane cannot be colored with five colors,1,yes,,preprints/The-Euclidean-plane-is-not-five-colorable-September-23-2026/paper.pdf
-159,Combinatorics,Erd\H{o}s's reciprocal-sum conjecture and quasipolynomial Szemeredi bounds,1,yes,quasipolynomial-arithmetic-progressions.pdf,preprints/Quasipolynomial-Bounds-for-Arithmetic-Progressions-September-23-2026/paper.pdf
+159,Combinatorics,Erdős's reciprocal-sum conjecture and quasipolynomial Szemeredi bounds,1,yes,quasipolynomial-arithmetic-progressions.pdf,preprints/Quasipolynomial-Bounds-for-Arithmetic-Progressions-September-23-2026/paper.pdf
 160,Combinatorics,Superexponential van der Waerden numbers,1,yes,,preprints/Quantitative-Superexponential-Bounds-for-van-der-Waerden-Numbers-September-23-2026/paper.pdf
 161,Combinatorics,Counterexamples to Sidorenko's conjecture and the forcing conjecture,1,yes,,preprints/A-counterexample-to-Sidorenkos-conjecture-September-23-2026/paper.pdf
 162,Combinatorics,Counterexamples to Ryser's covering and Gyarfas's tree-cover conjectures,2,yes,,preprints/Balanced-Counterexamples-to-Rysers-Conjecture-at-Prime-Orders-September-27-2026/paper.pdf
 164,Combinatorics,Hindman's finite sums and products conjecture,1,,,preprints/Monochromatic-finite-sums-and-products-in-the-positive-integers-September-23-2026/paper.pdf
 165,Combinatorics,Exact crossing numbers of complete and complete bipartite graphs,2,yes,,preprints/The-crossing-number-of-complete-graphs-September-23-2026/paper.pdf
-166,Combinatorics,The higher-dimensional Erd\H{o}s distinct-distances conjecture,1,,,preprints/The-higher-dimensional-Erdos-distinct-distances-conjecture-September-23-2026/paper.pdf
+166,Combinatorics,The higher-dimensional Erdős distinct-distances conjecture,1,,,preprints/The-higher-dimensional-Erdos-distinct-distances-conjecture-September-23-2026/paper.pdf
 167,Combinatorics,Pinned distances and a power saving for planar unit distances,2,yes,,preprints/The-weak-pinned-planar-distance-theorem-September-23-2026/paper.pdf
 168,Combinatorics,Combinatorial invariance of Kazhdan–Lusztig polynomials,1,yes,,preprints/Combinatorial-Invariance-of-Kazhdan-Lusztig-Polynomials-September-24-2026/paper.pdf
 169,Combinatorics,The Shareshian–Wachs $e$-positivity conjecture,1,yes,,preprints/Elementary-Positivity-of-Chromatic-Quasisymmetric-Functions-September-24-2026/paper.pdf
@@ -174,7 +174,7 @@ family,discipline,title,manuscripts,lean,reasoning_trace,first_paper
 178,Combinatorics,Deterministic nonbipartite Ramanujan graphs in every fixed degree,1,,,preprints/Deterministic-nonbipartite-Ramanujan-graphs-in-every-fixed-degree-September-23-2026/paper.pdf
 179,Combinatorics,The circulant Hadamard conjecture,1,yes,,preprints/The-circulant-Hadamard-conjecture-September-23-2026/paper.pdf
 180,Combinatorics,Barnette's Hamiltonian-cycle conjecture,1,yes,,preprints/Paired-states-and-Hamiltonian-cycles-in-cubic-bipartite-planar-graphs-September-24-2026/paper.pdf
-181,Combinatorics,The Erd\H{o}s–Gallai cycle-decomposition conjecture,1,yes,,preprints/A-linear-cycle-and-edge-decomposition-of-every-graph-September-24-2026/main.pdf
+181,Combinatorics,The Erdős–Gallai cycle-decomposition conjecture,1,yes,,preprints/A-linear-cycle-and-edge-decomposition-of-every-graph-September-24-2026/main.pdf
 182,Combinatorics,Power savings for polynomial-difference-free sets,3,yes,,preprints/A-power-saving-for-intersective-polynomial-differences-with-an-exponent-depending-only-on-the-degree-October-5-2026/power-saving-intersective-polynomial-differences.pdf
 183,Combinatorics,Power savings for planar halving lines and $k$-sets,1,yes,,preprints/A-power-saving-for-planar-halving-lines-September-25-2026/main.pdf
 184,Combinatorics,Coloring and independence in graphs with forbidden subgraphs,2,yes,,preprints/Correspondence-Coloring-Graphs-with-a-Forbidden-Clique-October-5-2026/correspondence-coloring-forbidden-clique.pdf

@@ -55,7 +55,8 @@ def tex_to_text(t):
     t = re.sub(r"\\href\{[^}]*\}\{([^}]*)\}", r"\1", t)
     t = re.sub(r"\\(textit|textbf|emph|mathrm|operatorname)\{([^}]*)\}", r"\2", t)
     t = t.replace("---", "—").replace("--", "–").replace("~", " ")
-    t = re.sub(r"\\['\"`^]\{?(\w)\}?", r"\1", t)
+    t = re.sub(r"\\H\{o\}", "ő", t)
+    t = re.sub(r"\\['\"`^~Hvc]\{?(\w)\}?", r"\1", t)
     return re.sub(r"\s+", " ", t).strip()
 
 
