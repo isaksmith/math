@@ -36,7 +36,7 @@ Legend: **L** = Lean formalization doc in `lean/docs/`, **R** = abridged reasoni
 | --- | --- | ---: | --- | --- | --- | --- | --- |
 | 001 | [Milne's rationality conjecture](../preprints/Milnes-rationality-conjecture-for-abelian-varieties-September-23-2026/paper.pdf) | 1 |  |  | unread | 2 | Headline NT result; no Lean |
 | 002 | [The full Birch–Swinnerton-Dyer formula in Selmer coranks zero and one](../preprints/Exact-Birch-Swinnerton-Dyer-Formula-from-Low-Selmer-Corank-October-3-2026/exact-bsd-low-selmer-corank.pdf) | 3 |  |  | unread | 2 | Full BSD for Selmer corank ≤1; no Lean |
-| 003 | [The quasi-Riemann hypothesis](../preprints/The-Quasi-Riemann-Hypothesis-September-30-2026/paper.pdf) | 3 | [L](../lean/docs/003.md) |  | unread | 1 | Quasi-RH 7/8 — first Comparator run candidate |
+| 003 | [The quasi-Riemann hypothesis](../preprints/The-Quasi-Riemann-Hypothesis-September-30-2026/paper.pdf) | 3 | [L](../lean/docs/003.md) |  | unread | 1 | [notes](notes/003.md) Quasi-RH 7/8 — first Comparator run candidate |
 | 004 | [Hilbert's tenth problem over $\mathbb Q$](../preprints/Hilberts-tenth-problem-over-the-rational-numbers-September-24-2026/main.pdf) | 2 |  |  | unread | 2 | Hilbert's tenth over Q; no Lean |
 | 005 | [Irrationality of Catalan's constant](../preprints/Catalans-constant-is-irrational-September-24-2026/paper.pdf) | 1 | [L](../lean/docs/005.md) |  | unread |  |  |
 | 006 | [Goldfeld's conjecture](../preprints/Goldfelds-analytic-density-conjecture-and-the-2-converse-for-elliptic-curves-September-23-2026/paper.pdf) | 2 |  |  | unread |  |  |
